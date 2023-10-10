@@ -1,0 +1,31 @@
+100709;Coffee Maker;Appliances;29.99;90;Keurig;0
+100121;Orange Juice Bottles;Beverages;5.99;100;PepsiCo;1;4.99;20/1/2023
+101202;Apple Juice Bottles;Beverages;5.99;80;The Coca-Cola Company;0
+100345;Mineral Water Bottles;Beverages;2.49;150;Nestle;1;1.99;15/2/2023
+101303;Smartphone;Electronics;699.99;50;Samsung;1;599.99;28/2/2023
+103405;Washing Machine;Appliances;349.99;40;Whirlpool;0
+100890;Chocolate Bars;Sweets;1.49;200;Hershey's;0
+100999;Digital Camera;Electronics;249.99;25;Canon;0
+
+
+111222;Coffee Maker;Appliances;29.99;5;Keurig;0
+100121;Orange Juice Bottles;Beverages;5.99;100;PepsiCo;1
+101202;Apple Juice Bottles;Beverages;5.99;80;The Coca-Cola Company;0
+100345;Mineral Water Bottles;Beverages;2.49;150;Nestle;1
+101303;Smartphone;Electronics;699.99;50;Samsung;1
+103405;Washing Machine;Appliances;349.99;40;Whirlpool;0
+100890;Chocolate Bars;Sweets;1.49;200;Hershey's;0
+100999;Digital Camera;Electronics;249.99;25;Canon;0
+
+....
+
+123456;Ahmad Hussam;19/1/2000;admin;1;{};0
+234567;Sara Ahmed;10/5/1995;shopper;1;{010891:10,112134:3};0
+345678;Ali Mohammed;5/8/1992;admin;1;{};0
+456789;Fatima Saleh;15/2/1987;shopper;1;{112134:5};0
+567890;Majed Jamal;30/9/2001;shopper;1;{010891:2};0
+111111;lana thabit;24/4/2002;admin;0;{};0
+123123;dana thabit;20/2/2000;shopper;1;{};0
+121212;salem;1/1/1999;shopper;0;{};0
+321321;gg;1/1/1;admin;0;{};0
+123321;iman;1/1/2121;shopper;0;{};0
